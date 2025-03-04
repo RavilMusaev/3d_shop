@@ -14,6 +14,5 @@ namespace Domain.Entity
         public string Status_orders { get; set; }
         public string Date_order { get; set; }
         public string Date_end { get; set; }
-        public string comment { get; set; }
     }
 }
